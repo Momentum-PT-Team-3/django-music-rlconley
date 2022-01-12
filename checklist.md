@@ -2,7 +2,7 @@ Django Music Collection 🎵
 
 Create an application to keep track of all the music albums you own. 
 
--[] You can choose whatever fields you think an album should have, but it should have at least these three:
+-[ ] You can choose whatever fields you think an album should have, but it should have at least these three:
     title
     artist
     created_at
